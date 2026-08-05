@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { TikTokLiveConnection } from 'tiktok-live-connector';
 
-const USERNAME = 'feliiiocean';
+const USERNAME = 'jornelive';
 const STATE_FILE = 'state.json';
 
 const BOT_TOKEN = process.env.BOT_TOKEN;
